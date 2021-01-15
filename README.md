@@ -10,6 +10,7 @@ Things to do/idea to implement:
 - features on voice change
 - volume adjustment 
 
+ADD_ON Feature later:
 Scientific calculation
 - Re-calculates the rate of redox reaction on laccase for biofuel cell on graphitic carbon (my previous research in graduate program)
 - Re-evaluate the Raman data on nano carbon fibers. 
