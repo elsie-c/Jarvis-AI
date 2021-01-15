@@ -1,6 +1,4 @@
 # Jarvis-AI
-Simple Python - One way to make a friend when you are quarantined alone for a year. (The result of being too much 'homebody')
-
 Start Date : 1/14/20
 I started this project with the intention of learning python and interest in artificial intelligence. 
 
