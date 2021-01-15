@@ -16,6 +16,7 @@ window = sg.Window('KORONA | Quarantine Buddy 👌', layout)
 import pyttsx3
 engine = pyttsx3.init()
 
+#upload
 # Display and interact with the Window
 # Wikipedia gives more detailed information of the search.
 while True:
